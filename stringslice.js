@@ -1,5 +1,5 @@
 const sentence="GCT is a unique university";
-console.log(sentence.slice(11,17));
+console.log(sentence.slice(11,17));             //slice(startindx,endindex)
 
 
 
