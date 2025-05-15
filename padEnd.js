@@ -1,4 +1,4 @@
-// padEnd method pad the current string with another string at the end
+//padEnd method pad the current string with another string at the end
 //padEnd() take two parameters
 //(targetlength,padstring)
 //target length means kitni length honi chahiye
