@@ -1,6 +1,6 @@
-// padStart take two parameters
-// padStart(targetlength,padString)
-// targetlength means target the length of string
+//padStart take two parameters
+//padStart(targetlength,padString)
+//targetlength means target the length of string
 //padString applied from the start.
 
 /*
@@ -15,7 +15,6 @@ Is code mein padStart ka kya kaam hai?
 
 const str = "5";
 const result = str.padStart(3, "0");
-
 */
 
 /*
