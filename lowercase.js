@@ -1,3 +1,4 @@
-const person="SHEHIRYAR";                //convert it into lowercase
- console.log(person.toLowerCase());
+const person="SHEHIRYAR";                
+console.log(person.toLowerCase());
+//convert it into lowercase
  
