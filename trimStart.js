@@ -1,2 +1,2 @@
-let cutting= "     unique"
+const cutting= "     unique"
 console.log(cutting.trim())
